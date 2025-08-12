@@ -1,0 +1,32 @@
+# 导航栏
+# 1.Home（主页）：简介 + 研究方向图 + 一句话格言
+# 2.Publications（出版物）：按时间/类型列出论文，附链接
+# 3.Talks（讲座）：列出讲座/报告/演讲，附链接
+# 4.Awards（奖项）：列出竞赛/奖学金/荣誉称号，简洁明了
+# 5.Moments（我的生活）：更新自己的近况、社会活动等
+# 6.CV（简历）：PDF 下载 + 在线简版浏览（用 Markdown 渲染即可）
+# 7.Notes（笔记）：跳转到 Notion 或 mdBook 页面，支持目录导航
+
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Academic Exchanges"
+    url: /Academic_Exchanges/    
+
+  - title: "Awards"
+    url: /Awards/  
+
+  - title: "Projects"
+    url: /Projects/
+      
+  - title: "Moments"
+    url: /Moments/
+    
+  - title: "CV"
+    url: /cv/
+
+  - title: "Notes"
+    url: /Notes/
+    
+    
